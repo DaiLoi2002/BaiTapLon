@@ -15,4 +15,4 @@ function DangNhap({ navigation }) {
   );
 }
 
-export default DangKi
+export default DangNhap
